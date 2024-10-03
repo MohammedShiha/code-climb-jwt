@@ -20,4 +20,4 @@ AUTO_INCREMENT=3
 ;
 ```
 
-You can generate HMAC SHA-256 secret using [this](https://www.akto.io/tools/hmac-sha-256-hash-generator) website.
+You can generate HMAC SHA-256 secrets using [this](https://www.akto.io/tools/hmac-sha-256-hash-generator) website.
